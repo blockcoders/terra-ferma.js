@@ -3,6 +3,8 @@ Terra Ferma
 
 A Terra LCD library implementation in Typescript.
 
+Currently under developement 🤓
+
 ## Contributing
 
 Contributions welcome! See [Contributing](CONTRIBUTING.md).
